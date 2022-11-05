@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  padding: 25px;
+  background-image: linear-gradient(
+    to right,
+    rgb(18, 18, 70),
+    rgb(146, 146, 196)
+  );
+}
+
+h1 {
+  font-family: "Bigelow Rules";
+  font-size: 72px;
+  color: #042731;
 }
 
 .App-logo {
